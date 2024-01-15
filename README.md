@@ -20,6 +20,8 @@ Climate change poses significant challenges globally, affecting river systems an
 
 - **Acknowledgements:** Expresses gratitude to key stakeholders, including Break Through Tech, Geothara, and team members, for their collaboration and support.
 
+   - **Team Members:** Vladislav Vostrikov, Michelle Weng, Carla Sanchez, Sabreen Shigri, Ryan Chen
+
 ## Repository Contents
 
 - **Code:** Includes Python scripts for data processing and modeling.
@@ -27,3 +29,4 @@ Climate change poses significant challenges globally, affecting river systems an
 - **Documentation:** Contains additional documentation and illustrations explaining the data processing approach.
 
 **Note:** This README serves as a concise introduction. For a more detailed overview, refer to the full project documentation.
+
